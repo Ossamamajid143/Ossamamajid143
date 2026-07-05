@@ -84,18 +84,4 @@ A passionate Full Stack | MERN Developer
 
 ---
 
----
-
-# 🚀 Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| 💼 Portfolio | Personal developer portfolio |
-| 🛒 MERN Store | Complete e-commerce platform |
-| 🤖 AI Chat | AI-powered chatbot |
-| 📊 Dashboard | Admin dashboard |
-| 🌤 Weather App | Weather forecasting app |
-| 📚 LMS | Learning management system |
-
----
 
