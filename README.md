@@ -84,4 +84,12 @@ A passionate Full Stack | MERN Developer
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ossamamajid4/Ossamamajid143/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
+
 
