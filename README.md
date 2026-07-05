@@ -26,7 +26,7 @@ A passionate Full Stack | MERN Developer
 
 <p align="center">
 
-<a href="www.linkedin.com/in/ossama-majid">
+<a href="[www.linkedin.com/in/ossama-majid](https://www.linkedin.com/in/ossama-majid-431779308/)">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
